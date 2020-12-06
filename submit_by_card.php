@@ -1,4 +1,6 @@
 <?php
+//created by Altaf Korejo
+
     require_once('./ajax_file/stripe-php-master/init.php');
 
 
